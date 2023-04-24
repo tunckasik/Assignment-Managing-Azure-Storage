@@ -1,4 +1,4 @@
-# Assignment 6 - Managing Azure Storage
+# Assignment - Managing Azure Storage
 
 I am assigned to evaluate the use of Azure storage for storing files residing currently in on-premises data stores.
 I am wanted to minimize cost of storage by placing less frequently accessed files in lower-priced storage tiers as cool access tier.
